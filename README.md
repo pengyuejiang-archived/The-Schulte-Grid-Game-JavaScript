@@ -5,7 +5,7 @@ The Schulte Grid Game made with JavaScript!
 
 This version includes the most minimal but essential functionalities, logic and styling.
 
-###How to run
+### How to run
 
 Open the ```index.html``` file with your browser and start to play!
 
