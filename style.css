@@ -1,0 +1,4 @@
+.done {
+    color: green;
+    transition: color 0.4s;
+}
